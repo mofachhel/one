@@ -1,0 +1,268 @@
+.first-banner{
+position: absolute;
+width: 1600px;
+height: 861px;
+left:0x;
+top: 0px;
+
+background: url(../images/banner/banner1.png);
+}
+.first-tittle{
+    position: absolute;
+width: 525px;
+height: 228px;
+left: 845px;
+top: 216px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 65px;
+line-height: 76px;
+text-align: right;
+color: #151414;
+}
+.first-description{
+    
+position: absolute;
+width: 494px;
+height: 78px;
+left: 876px;
+top: 468px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+text-align: right;
+color: #444343;
+}
+.first-button{
+    
+position: absolute;
+width: 109px;
+height: 23px;
+left: 1236px;
+top: 599px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+text-align: right;
+color: #FFFFFF;
+}
+.second-banner{
+position: absolute;
+width: 1072px;
+height: 823.3px;
+left: 50px;
+top: 639px;
+}
+.person{
+position: absolute;
+width: 569px;
+height: 723.3px;
+left: 106px;
+top:539px;
+}
+.second-tittle{
+    position: absolute;
+width: 288px;
+height: 94px;
+left: 862px;
+top: 750px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+}
+.second-description{
+position: absolute;
+width: 416px;
+height: 104px;
+left: 862px;
+top: 850px;
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+color: #444343;
+}
+.list{
+position: absolute;
+width: 349px;
+height: 162px;
+left: 862px;
+top: 950px;
+}
+.third-banner{
+position: absolute;
+width: 1141px;
+height: 338.21px;
+left: 230px;
+top: 2100px;
+}
+.plan{
+    padding-left: 400px;
+ 
+/* position: absolute; */
+/* width: 179px;
+height: 52.06px;
+left: 411px;
+top: 0px; */
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+
+}
+.icon-1{
+    top: 1400px;
+    gap: 200px;
+    display: flex;
+}
+.icon-tittle{
+    font-size: 26px;
+}
+.icon-description{
+    font-size: 16px;
+}
+.fourth-banner{
+ 
+position: absolute;
+width: 1600px;
+height: 577px;
+left: 0px;
+top: 2646.3px;
+background: #151414;
+
+
+}
+.tittle-4{ 
+position: absolute;
+width: 485px;
+height: 317px;
+left: 0px;
+top: 100.3px;
+
+}
+.fourth-tittle{
+    
+position: absolute;
+width: 148px;
+height: 53px;
+left: 230px;
+top: 0px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 45px;
+line-height: 53px;
+color: #FFFFFF;
+}
+.fourth-description{
+    position: absolute;
+width: 485px;
+height: 78px;
+left: 230px;
+top: 50.3px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+
+color: #FFFFFF;
+}
+.email{
+    position: absolute;
+    width: 284px;
+    height: 26px;
+    left: 230px;
+    top: 150px;
+    
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 26px;
+    color: #FFFFFF;
+}
+.call{
+
+    position: absolute;
+    width: 186px;
+    height: 26px;
+    left: 230px;
+    top: 250.3px;
+    
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    
+    
+    color: #FFFFFF;
+    
+}
+.fourth-icon{
+    
+position: absolute;
+width: 175px;
+height: 46px;
+left: 230px;
+top: 400.3px
+}
+.class-2{
+position: absolute;
+width: 425px;
+height: 504px;
+left: 746px;
+top: O.3px;
+}
+.subscribe{
+    position: absolute;
+width: 123px;
+height: 29px;
+left: 246px;
+top: 100px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 29px;
+color: #FFFFFF;
+
+}
+.placeholder{
+    position: absolute;
+width: 325px;
+height: 64px;
+left: 246px;
+top: 200px;
+s
+}
+.subscribe-button{
+    
+position: absolute;
+width: 170.11px;
+height: 64px;
+left: 246px;
+top: 300.3px;
+color; #F15B22;
+
+border-radius: 8px;
+
+}
