@@ -105,17 +105,10 @@ position: absolute;
 width: 1141px;
 height: 338.21px;
 left: 230px;
-top: 2100px;
+top: 2550px;
 }
 .plan{
     padding-left: 400px;
- 
-/* position: absolute; */
-/* width: 179px;
-height: 52.06px;
-left: 411px;
-top: 0px; */
-
 font-family: 'Work Sans';
 font-style: normal;
 font-weight: 700;
@@ -135,13 +128,14 @@ color: #151414;
 .icon-description{
     font-size: 16px;
 }
+
 .fourth-banner{
  
 position: absolute;
 width: 1600px;
 height: 577px;
 left: 0px;
-top: 2646.3px;
+top: 3046.3px;
 background: #151414;
 
 
@@ -265,4 +259,46 @@ color; #F15B22;
 
 border-radius: 8px;
 
+}
+.watch-banner{
+
+position: absolute;
+width: 1140px;
+height: 300px;
+left: 231px;
+top: 2119px;
+background-image: url(../images/watch.png);
+border-radius: 8px;
+}
+.watch-tittle{
+    
+position: absolute;
+width: 459px;
+height: 94px;
+left: 64px;
+top: 56.3px;
+
+font-family: 'Work Sans';
+font-style: normal;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+
+color: #FFFFFF;
+
+}
+.call-now{
+    
+position: absolute;
+width: 160px;
+height: 174px;
+left: 63px;
+top: 193.3px;
+
+}
+.calling{
+    width: 160px;
+    height: 64px;
+    font-size: 20px;
+    color:  #F15B22;
 }
